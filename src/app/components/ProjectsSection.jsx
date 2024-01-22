@@ -11,17 +11,17 @@ const projectsData = [
     description: "This portfolio website is built using next.js, React and TailwindCSS",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/J010t/portfolio-website",
     previewUrl: "/",
   },
   {
     id: 2,
-    title: "Spotify Clone",
-    description: "Music Player using HTML, CSS,Bootstrap and JavaScript",
+    title: "PgFinder",
+    description: "This full stack website is for finding pg for student & IT Professionals using React, Node.js, Express.js, MongoDB, TailwindCSS",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/J010t/PgFinder",
+    previewUrl: "https://pgfinder-sao3.onrender.com",
   },
 ];
 
